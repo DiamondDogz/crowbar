@@ -10,12 +10,12 @@ Version française plus bas.
 
 ## Games
 
-| Game | Runtime |
-| --- | --- |
-| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) |
-| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) |
-| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | runtime coming |
+| Game | Windows | Linux |
+| --- | --- | --- |
+| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
+| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
+| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
+| Mobile Suit Gundam Battle Operation Code Fairy | coming | coming |
 
 The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), refreshed every hour.
 
@@ -60,12 +60,12 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 
 ## Jeux
 
-| Jeu | Runtime |
-| --- | --- |
-| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) |
-| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) |
-| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | runtime à venir |
+| Jeu | Windows | Linux |
+| --- | --- | --- |
+| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
+| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
+| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
+| Mobile Suit Gundam Battle Operation Code Fairy | à venir | à venir |
 
 La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), mise à jour toutes les heures.
 
