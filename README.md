@@ -1,6 +1,6 @@
 # Crowbar
 
-**Crowbar** is a launcher for PS4RT runtimes, with an XMB-inspired interface. It finds your PS4 game dumps, installs and updates the right runtime for each game, and launches them, from a controller, a keyboard or a mouse.
+**Crowbar** is a launcher for PS4RT runtimes. It finds your PS4 game dumps, installs and updates the right runtime for each game, and launches them, from a controller, a keyboard or a mouse.
 
 **[Download the latest release](https://github.com/DiamondDogz/crowbar/releases)**: `Crowbar_*_x64-setup.exe` for Windows, `.AppImage` or `.deb` for Linux. Each file comes with its `.sha256`.
 
@@ -52,7 +52,7 @@ Crowbar is not affiliated with Sony Interactive Entertainment or with the publis
 
 # Crowbar (français)
 
-**Crowbar** est un lanceur pour les runtimes PS4RT, à l'interface inspirée du XMB. Il trouve vos dumps de jeux PS4, installe et met à jour le bon runtime pour chaque jeu, et les lance, à la manette, au clavier ou à la souris.
+**Crowbar** est un lanceur pour les runtimes PS4RT. Il trouve vos dumps de jeux PS4, installe et met à jour le bon runtime pour chaque jeu, et les lance, à la manette, au clavier ou à la souris.
 
 **[Télécharger la dernière version](https://github.com/DiamondDogz/crowbar/releases)** : `Crowbar_*_x64-setup.exe` pour Windows, `.AppImage` ou `.deb` pour Linux. Chaque fichier est accompagné de son `.sha256`.
 
