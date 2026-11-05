@@ -8,6 +8,10 @@ No game is included. Crowbar only runs games from your own dumps.
 
 Version française plus bas.
 
+<p align="center">
+  <img src="docs/images/library.jpg" alt="Crowbar's game library, with Star Ocean selected" width="100%">
+</p>
+
 ## Games
 
 | Game | Windows | Linux |
@@ -35,6 +39,25 @@ The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz
 - **Console mode**: full screen, out of the way while you play, back when you quit. A Steam shortcut is available.
 - **GitHub account**, optional: one press to star the runtimes you enjoy. Sign-in uses a device code, so no password goes through Crowbar.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td colspan="2"><img src="docs/images/profile.jpg" alt="The profile page: level, trophy counts and a coverflow of your games"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><i>Your profile: level, trophies earned and progress in each game.</i></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/images/launch-checks-rlyehian.jpg" alt="The checks before launching Sakura Wars, in R'lyehian"></td>
+    <td width="50%"><img src="docs/images/settings-fr-ca.jpg" alt="The settings, in Canadian French"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><i>Checks before launch, in the bonus language: R'lyehian.</i></sub></td>
+    <td align="center"><sub><i>Settings, in Canadian French, one of the 23 PS4 languages.</i></sub></td>
+  </tr>
+</table>
+
 ## Requirements
 
 - Windows 10 or 11 (x64), or a Linux desktop.
@@ -57,6 +80,10 @@ Crowbar is not affiliated with Sony Interactive Entertainment or with the publis
 **[Télécharger la dernière version](https://github.com/DiamondDogz/crowbar/releases)** : `Crowbar_*_x64-setup.exe` pour Windows, `.AppImage` ou `.deb` pour Linux. Chaque fichier est accompagné de son `.sha256`.
 
 Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
+
+<p align="center">
+  <img src="docs/images/library.jpg" alt="La bibliothèque de Crowbar, Star Ocean sélectionné" width="100%">
+</p>
 
 ## Jeux
 
@@ -84,6 +111,25 @@ La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/
 - **23 langues**, celles de la PS4. Comme sur la console, une langue système sert à la fois à Crowbar et aux jeux qui la suivent.
 - **Mode console** : plein écran, Crowbar s'efface pendant la partie et revient ensuite. Un raccourci Steam est disponible.
 - **Compte GitHub**, facultatif : un appui pour mettre une étoile aux runtimes que vous aimez. La connexion se fait par code, aucun mot de passe ne passe par Crowbar.
+
+## Captures d'écran
+
+<table>
+  <tr>
+    <td colspan="2"><img src="docs/images/profile.jpg" alt="La page Profil : niveau, trophées et défilement de vos jeux"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><i>Votre profil : niveau, trophées obtenus et progression dans chaque jeu.</i></sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/images/launch-checks-rlyehian.jpg" alt="Les vérifications avant de lancer Sakura Wars, en R'lyehian"></td>
+    <td width="50%"><img src="docs/images/settings-fr-ca.jpg" alt="Les paramètres, en français canadien"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><i>Les vérifications avant le lancement, dans la langue bonus : le R'lyehian.</i></sub></td>
+    <td align="center"><sub><i>Les paramètres, en français canadien, l'une des 23 langues de la PS4.</i></sub></td>
+  </tr>
+</table>
 
 ## Configuration requise
 
