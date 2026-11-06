@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "notes": "Mise à jour automatique de Crowbar : les prochaines versions s'installent depuis Crowbar \nTrophées hors ligne et page Profil \nGuide du premier lancement plus clair à la manette",
+  "notes": "Crowbar now updates itself: new versions install from inside Crowbar\nOffline trophies and a Profile page\nClearer first-launch guide with a controller\n\n[fr]\nMise à jour automatique : les prochaines versions s'installent depuis Crowbar\nTrophées hors ligne et page Profil\nGuide du premier lancement plus clair à la manette",
   "pub_date": "2026-11-06T20:44:54Z",
   "platforms": {
     "windows-x86_64": {
