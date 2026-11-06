@@ -1,15 +1,15 @@
 {
-  "version": "0.2.0",
-  "notes": "Crowbar now updates itself: new versions install from inside Crowbar\nOffline trophies and a Profile page\nClearer first-launch guide with a controller\n\n[fr]\nMise à jour automatique : les prochaines versions s'installent depuis Crowbar\nTrophées hors ligne et page Profil\nGuide du premier lancement plus clair à la manette",
-  "pub_date": "2026-11-06T20:44:54Z",
+  "version": "0.2.1",
+  "notes": "Release notes in English and French: Crowbar shows the ones in your language\nFirst version installed by Crowbar itself\n\n[fr]\nNouveautés en anglais et en français : Crowbar affiche celles de votre langue\nPremière version installée par Crowbar lui-même",
+  "pub_date": "2026-11-06T21:04:38Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0lHblVmZWNpTjF2YnNSUkRNZitJVGgxNk0vR2tNSVZEZ0ZVWnh6RjlBSktVQ3Z3WWNwb0dhL1hheGFyenlMU3NWUEgwdmo3MkVWT0tmclhIbHV5MUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3ODUxCWZpbGU6Q3Jvd2Jhcl8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKZG1GMmZGMlB0U1c2dnhZUUNYMFV2VU9PQmc2TXVCSU9YNkRvU3FmVXB5eWhVcjZpYmt5UEtmeE52eDJ5ZW1GQ2gzRSt0bWR5QnE0TDVsL2REMm9SQ2c9PQo=",
-      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.0/Crowbar_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0paaGgxdmJCZERROUxZVGN3SXIvcTBTRmh0Ykw1bkQ3d2VTNTgyc2NTVk90dnVIR1VvazRnelFaV2F3SEx2ZTVabDdUQjRwUG9aSHZGeDZ3a3hqR2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk4NjcwCWZpbGU6Q3Jvd2Jhcl8wLjIuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjEKd3BsSlpOK0RTSE5OeW82U0syRkdjSWt2UG5KVVJGRFJYWUJlMEZpeXZaTHNIeWhXMzBXOWtxaEFESmtLMzZPUVY2KzdRTXBSak42c3NaTW8vamtuRGc9PQo=",
+      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.1/Crowbar_0.2.1_x64-setup.exe"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0lnK08zVVl0cnFtZGV5ZGkzWVovOTdqemhhK0I3Nk1CMUk5VjlXRGFKR1czc3lpNi8yZ2kyODU5RG5vcEFNeDl2NEFmYmIxOWtMWmxjYkczTVVOSFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3ODU3CWZpbGU6Q3Jvd2Jhcl8wLjIuMF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMi4wCnV5VW55NExRZXB3VEk4ZytNL1FpZ2gyU0R1LzVVcnVMMld6RFp1MzduY0lyRDV1SncvZkEwdzRXN3JpbmJNSG9LYlVuOTVGaytLVkpVVEUzbmd2cEFRPT0K",
-      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.0/Crowbar_0.2.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0crZENLbUFtWDMvdllQR2w1T0N1SUI0TzdjSXlqQmVYQktXMXNPd1dnZlQ1WFlRUFR5VitBbmptZ2RpdExYU2dKZ0oxMTdPY0RrNGVlTnZwNGNuaEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk5MDU3CWZpbGU6Q3Jvd2Jhcl8wLjIuMV9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMi4xCkJpR0c5SCtCVHkvSzBEOE9Yd25pWlhlZDBIOE1UMnVHTUhOeFQ4K3pWSlNHU1lLbGZSMVl5TmRsRWRUSzlFendrRSsxMlNrdFpmeFBKZnVwVVUrR0J3PT0K",
+      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.1/Crowbar_0.2.1_amd64.AppImage"
     }
   }
 }
