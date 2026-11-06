@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Mise à jour automatique de Crowbar : les prochaines versions s'installent depuis Crowbar \nTrophées hors ligne et page Profil \nGuide du premier lancement plus clair à la manette",
+  "pub_date": "2026-11-06T20:44:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0lHblVmZWNpTjF2YnNSUkRNZitJVGgxNk0vR2tNSVZEZ0ZVWnh6RjlBSktVQ3Z3WWNwb0dhL1hheGFyenlMU3NWUEgwdmo3MkVWT0tmclhIbHV5MUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3ODUxCWZpbGU6Q3Jvd2Jhcl8wLjIuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjAKZG1GMmZGMlB0U1c2dnhZUUNYMFV2VU9PQmc2TXVCSU9YNkRvU3FmVXB5eWhVcjZpYmt5UEtmeE52eDJ5ZW1GQ2gzRSt0bWR5QnE0TDVsL2REMm9SQ2c9PQo=",
+      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.0/Crowbar_0.2.0_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb3M5dmRIenIrZ0lnK08zVVl0cnFtZGV5ZGkzWVovOTdqemhhK0I3Nk1CMUk5VjlXRGFKR1czc3lpNi8yZ2kyODU5RG5vcEFNeDl2NEFmYmIxOWtMWmxjYkczTVVOSFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzOTk3ODU3CWZpbGU6Q3Jvd2Jhcl8wLjIuMF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMi4wCnV5VW55NExRZXB3VEk4ZytNL1FpZ2gyU0R1LzVVcnVMMld6RFp1MzduY0lyRDV1SncvZkEwdzRXN3JpbmJNSG9LYlVuOTVGaytLVkpVVEUzbmd2cEFRPT0K",
+      "url": "https://github.com/DiamondDogz/crowbar/releases/download/v0.2.0/Crowbar_0.2.0_amd64.AppImage"
+    }
+  }
+}
