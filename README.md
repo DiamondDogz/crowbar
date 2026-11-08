@@ -21,6 +21,8 @@ Version française plus bas.
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
 | Mobile Suit Gundam Battle Operation Code Fairy | coming | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
+**New:** Star Ocean on Windows now records trophies (Hoverbike51's runtime v1.0.0): Crowbar shows them, pops them up and keeps them in your profile.
+
 The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), refreshed every hour.
 
 ## What it does
@@ -99,6 +101,8 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 | Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
 | Mobile Suit Gundam Battle Operation Code Fairy | à venir | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
+
+**Nouveau :** Star Ocean sous Windows enregistre désormais les trophées (runtime v1.0.0 de Hoverbike51) : Crowbar les affiche, les annonce et les garde dans votre profil.
 
 La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), mise à jour toutes les heures.
 
