@@ -9,7 +9,7 @@ No game is included. Crowbar only runs games from your own dumps.
 Version française plus bas.
 
 <p align="center">
-  <img src="docs/images/library.jpg" alt="Crowbar's game library, with Star Ocean selected" width="100%">
+  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy in Crowbar, new on Linux" width="100%">
 </p>
 
 ## Games
@@ -19,7 +19,7 @@ Version française plus bas.
 | Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
 | Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | coming | coming |
+| Mobile Suit Gundam Battle Operation Code Fairy | coming | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
 The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), refreshed every hour.
 
@@ -42,6 +42,12 @@ The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz
 ## Screenshots
 
 <table>
+  <tr>
+    <td colspan="2"><img src="docs/images/library.jpg" alt="Crowbar's game library, with Star Ocean selected"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><i>Your library: each game with its own artwork and theme music.</i></sub></td>
+  </tr>
   <tr>
     <td colspan="2"><img src="docs/images/profile.jpg" alt="The profile page: level, trophy counts and a coverflow of your games"></td>
   </tr>
@@ -82,7 +88,7 @@ Crowbar is not affiliated with Sony Interactive Entertainment or with the publis
 Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 
 <p align="center">
-  <img src="docs/images/library.jpg" alt="La bibliothèque de Crowbar, Star Ocean sélectionné" width="100%">
+  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy dans Crowbar, nouveau sous Linux" width="100%">
 </p>
 
 ## Jeux
@@ -92,7 +98,7 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 | Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
 | Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | à venir | à venir |
+| Mobile Suit Gundam Battle Operation Code Fairy | à venir | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
 La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), mise à jour toutes les heures.
 
@@ -115,6 +121,12 @@ La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/
 ## Captures d'écran
 
 <table>
+  <tr>
+    <td colspan="2"><img src="docs/images/library.jpg" alt="La bibliothèque de Crowbar, Star Ocean sélectionné"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><sub><i>Votre bibliothèque : chaque jeu avec ses images et son thème musical.</i></sub></td>
+  </tr>
   <tr>
     <td colspan="2"><img src="docs/images/profile.jpg" alt="La page Profil : niveau, trophées et défilement de vos jeux"></td>
   </tr>
