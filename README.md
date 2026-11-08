@@ -23,6 +23,10 @@ Version française plus bas.
 
 **New:** Star Ocean on Windows now records trophies (Hoverbike51's runtime v1.0.0): Crowbar shows them, pops them up and keeps them in your profile.
 
+<p align="center">
+  <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean in the profile: 0 of 41 trophies, now supported" width="80%">
+</p>
+
 The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), refreshed every hour.
 
 ## What it does
@@ -103,6 +107,10 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 | Mobile Suit Gundam Battle Operation Code Fairy | à venir | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
 **Nouveau :** Star Ocean sous Windows enregistre désormais les trophées (runtime v1.0.0 de Hoverbike51) : Crowbar les affiche, les annonce et les garde dans votre profil.
+
+<p align="center">
+  <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean dans le profil : 0 trophée sur 41, désormais pris en charge" width="80%">
+</p>
 
 La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), mise à jour toutes les heures.
 
