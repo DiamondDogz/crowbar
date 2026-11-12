@@ -9,7 +9,7 @@ No game is included. Crowbar only runs games from your own dumps.
 Version française plus bas.
 
 <p align="center">
-  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy in Crowbar, new on Linux" width="100%">
+  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy in Crowbar, new on Linux and Windows (beta)" width="100%">
 </p>
 
 ## Games
@@ -19,9 +19,11 @@ Version française plus bas.
 | Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
 | Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | coming | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
+| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) (beta) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
-**New:** Star Ocean on Windows now records trophies (Hoverbike51's runtime v1.0.0): Crowbar shows them, pops them up and keeps them in your profile.
+**New:** the Guide button now opens the Crowbar quick menu over the game; press it twice to switch to Crowbar.
+
+**Also new:** Star Ocean on Windows now records trophies (Hoverbike51's runtime v1.0.0): Crowbar shows them, pops them up and keeps them in your profile.
 
 <p align="center">
   <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean in the profile: 0 of 41 trophies, now supported" width="80%">
@@ -94,7 +96,7 @@ Crowbar is not affiliated with Sony Interactive Entertainment or with the publis
 Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 
 <p align="center">
-  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy dans Crowbar, nouveau sous Linux" width="100%">
+  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy dans Crowbar, nouveau sous Linux et Windows (bêta)" width="100%">
 </p>
 
 ## Jeux
@@ -104,9 +106,11 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 | Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
 | Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
 | Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | à venir | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
+| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) (bêta) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
 
-**Nouveau :** Star Ocean sous Windows enregistre désormais les trophées (runtime v1.0.0 de Hoverbike51) : Crowbar les affiche, les annonce et les garde dans votre profil.
+**Nouveau :** le bouton Guide ouvre maintenant le menu rapide de Crowbar par-dessus le jeu ; deux appuis basculent dans Crowbar.
+
+**Aussi :** Star Ocean sous Windows enregistre désormais les trophées (runtime v1.0.0 de Hoverbike51) : Crowbar les affiche, les annonce et les garde dans votre profil.
 
 <p align="center">
   <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean dans le profil : 0 trophée sur 41, désormais pris en charge" width="80%">
