@@ -9,27 +9,37 @@ No game is included. Crowbar only runs games from your own dumps.
 Version française plus bas.
 
 <p align="center">
-  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy in Crowbar, new on Linux and Windows (beta)" width="100%">
+  <img src="docs/images/guide-dragons-crown.jpg" alt="The Crowbar Guide menu over Dragon's Crown Pro: friends online on the left, their messages on the right" width="100%">
 </p>
+<p align="center"><sub><i>Guide during a game: the menu opens over Dragon's Crown Pro, with your friends online and their messages.</i></sub></p>
 
 ## Games
 
-| Game | Windows | Linux |
-| --- | --- | --- |
-| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
-| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
-| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) (beta) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
+| Game | Windows | Linux | By |
+| --- | --- | --- | --- |
+| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) | [HekamiAeon](https://github.com/HekamiAeon), Windows port by DiamondDogz |
+| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) | [HekamiAeon](https://github.com/HekamiAeon), Windows port by DiamondDogz |
+| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) | [HekamiAeon](https://github.com/HekamiAeon), Windows port by DiamondDogz |
+| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Hoverbike51](https://github.com/Hoverbike51) (Windows), [HekamiAeon](https://github.com/HekamiAeon) (Linux) |
+| Dragon's Crown Pro | [dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | [dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | [saulob](https://github.com/saulob) |
+| Odin Sphere Leifthrasir | [odin-sphere-leifthrasir-pc](https://github.com/saulob/odin-sphere-leifthrasir-pc) | [odin-sphere-leifthrasir-pc](https://github.com/saulob/odin-sphere-leifthrasir-pc) | [saulob](https://github.com/saulob) |
+| 13 Sentinels: Aegis Rim | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [saulob](https://github.com/saulob) |
 
-**New:** the Guide button now opens the Crowbar quick menu over the game; press it twice to switch to Crowbar.
+Every runtime records trophies. The list comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog) and is refreshed every ten minutes, so new versions show up without restarting Crowbar. Enjoying a game? Star its repo: press Y on it in Crowbar, or follow the links above.
 
-**Also new:** Star Ocean on Windows now records trophies (Hoverbike51's runtime v1.0.0): Crowbar shows them, pops them up and keeps them in your profile.
+## New in 0.2.9
+
+- **A real pause from the Guide button.** Sakura Wars, Gundam Code Fairy and Valkyria Revolution stop completely (picture, sound, timers) while the menu is open. When a game cannot stop right now, a short notice says so, as on a console.
+- **Quit game, cleanly**: the runtime saves and closes itself; a game quit early is no longer reported as a crash.
+- **Live trophies**: a banner over the game, and your profile updates right away.
+- **Button prompts** in games: PlayStation or Xbox, for runtimes that support it.
+- **Captures and mods**: a Captures gallery for runtimes that save screenshots, and a mods folder in the game's Add-ons.
+- **Friends** (Labs, peer to peer, no server): who is online and what they play, right in the Guide; trophy comparison; their new trophies as banners; and **messages**, delivered at once or carried by other players for up to 14 days.
 
 <p align="center">
-  <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean in the profile: 0 of 41 trophies, now supported" width="80%">
+  <img src="docs/images/friends-compare.jpg" alt="Comparing trophies with a friend, game by game" width="80%">
 </p>
-
-The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), refreshed every hour.
+<p align="center"><sub><i>Comparing trophies with a friend, game by game.</i></sub></p>
 
 ## What it does
 
@@ -39,12 +49,13 @@ The list of runtimes comes from [crowbar-catalog](https://github.com/DiamondDogz
   - updated automatically or on demand, on the stable or beta channel;
   - pinned to an exact version if you prefer;
   - your saves, trophies and settings follow every update, and the previous version stays available to go back to.
-- **Offline trophies**: read from each game's `trophy00.trp`, with a Trophies screen, progress on every cover and a profile page. Nothing is sent anywhere.
+- **Trophies**: read from each game's `trophy00.trp`, with a Trophies screen, progress on every cover, a profile page and live banners. Nothing is sent to any server.
 - **Per-game settings**: resolution, display mode, FSR, frame rate and filtering. What you change in the in-game menu is kept.
 - **Checks before launch**: game files and version, Vulkan 1.3 support and a controller. If something would stop the game, Crowbar says what to do.
 - **Backups**: a dated copy of your saves, trophies and settings before every runtime change, with export, import and restore.
 - **23 languages**, those of the PS4. As on the console, one system language serves both Crowbar and the games that follow it.
-- **Console mode**: full screen, out of the way while you play, back when you quit. A Steam shortcut is available.
+- **Guide menu over the game**: pause, switch to Crowbar, quit the game, see notifications and friends, without leaving it.
+- **Console mode**: full screen, out of the way while you play, back when you quit. A Steam shortcut and a Discord activity are available.
 - **GitHub account**, optional: one press to star the runtimes you enjoy. Sign-in uses a device code, so no password goes through Crowbar.
 
 ## Screenshots
@@ -96,27 +107,37 @@ Crowbar is not affiliated with Sony Interactive Entertainment or with the publis
 Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 
 <p align="center">
-  <img src="docs/images/gundam.jpg" alt="Mobile Suit Gundam Battle Operation Code Fairy dans Crowbar, nouveau sous Linux et Windows (bêta)" width="100%">
+  <img src="docs/images/guide-dragons-crown.jpg" alt="Le menu Guide de Crowbar par-dessus Dragon's Crown Pro : les amis en ligne à gauche, leurs messages à droite" width="100%">
 </p>
+<p align="center"><sub><i>Le Guide pendant une partie : le menu s'ouvre par-dessus Dragon's Crown Pro, avec vos amis en ligne et leurs messages.</i></sub></p>
 
 ## Jeux
 
-| Jeu | Windows | Linux |
-| --- | --- | --- |
-| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) |
-| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) |
-| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) |
-| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) (bêta) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) |
+| Jeu | Windows | Linux | Par |
+| --- | --- | --- | --- |
+| Sakura Wars | [Sakura-Wars-PS4RT-Windows](https://github.com/DiamondDogz/Sakura-Wars-PS4RT-Windows) | [Sakura-Wars-PS4RT](https://github.com/HekamiAeon/Sakura-Wars-PS4RT) | [HekamiAeon](https://github.com/HekamiAeon), portage Windows par DiamondDogz |
+| Valkyria Revolution | [Valkyria-Revolution-PS4RT-Windows](https://github.com/DiamondDogz/Valkyria-Revolution-PS4RT-Windows) | [valkyria-revolution-ps4rt](https://github.com/HekamiAeon/valkyria-revolution-ps4rt) | [HekamiAeon](https://github.com/HekamiAeon), portage Windows par DiamondDogz |
+| Mobile Suit Gundam Battle Operation Code Fairy | [GBO-Code-Fairy-PS4RT-Windows](https://github.com/DiamondDogz/GBO-Code-Fairy-PS4RT-Windows) | [GBO-Code-Fairy-PS4RT](https://github.com/HekamiAeon/GBO-Code-Fairy-PS4RT) | [HekamiAeon](https://github.com/HekamiAeon), portage Windows par DiamondDogz |
+| Star Ocean: Integrity and Faithlessness | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/Hoverbike51/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Star-Ocean-Integrity-and-Faithlessness-PS4RT](https://github.com/HekamiAeon/Star-Ocean-Integrity-and-Faithlessness-PS4RT) | [Hoverbike51](https://github.com/Hoverbike51) (Windows), [HekamiAeon](https://github.com/HekamiAeon) (Linux) |
+| Dragon's Crown Pro | [dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | [dragons-crown-pro-pc](https://github.com/saulob/dragons-crown-pro-pc) | [saulob](https://github.com/saulob) |
+| Odin Sphere Leifthrasir | [odin-sphere-leifthrasir-pc](https://github.com/saulob/odin-sphere-leifthrasir-pc) | [odin-sphere-leifthrasir-pc](https://github.com/saulob/odin-sphere-leifthrasir-pc) | [saulob](https://github.com/saulob) |
+| 13 Sentinels: Aegis Rim | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [saulob](https://github.com/saulob) |
 
-**Nouveau :** le bouton Guide ouvre maintenant le menu rapide de Crowbar par-dessus le jeu ; deux appuis basculent dans Crowbar.
+Chaque runtime enregistre les trophées. La liste vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), relue toutes les dix minutes : les nouvelles versions apparaissent sans relancer Crowbar. Un jeu vous plaît ? Mettez une étoile à son dépôt : Y sur le jeu dans Crowbar, ou les liens ci-dessus.
 
-**Aussi :** Star Ocean sous Windows enregistre désormais les trophées (runtime v1.0.0 de Hoverbike51) : Crowbar les affiche, les annonce et les garde dans votre profil.
+## Nouveau dans la 0.2.9
+
+- **Une vraie pause avec le bouton Guide.** Sakura Wars, Gundam Code Fairy et Valkyria Revolution s'arrêtent complètement (image, son, minuteries) pendant que le menu est ouvert. Quand un jeu ne peut pas s'arrêter tout de suite, un court avis le dit, comme sur console.
+- **Quitter le jeu proprement** : le runtime enregistre et se ferme lui-même ; un jeu quitté tôt n'est plus signalé comme un plantage.
+- **Trophées en direct** : un bandeau par-dessus le jeu, et votre profil se met à jour aussitôt.
+- **Boutons affichés** dans les jeux : PlayStation ou Xbox, pour les runtimes qui le permettent.
+- **Captures et mods** : une galerie Captures pour les runtimes qui enregistrent des captures, et un dossier de mods dans les Contenus du jeu.
+- **Amis** (Labs, de joueur à joueur, sans serveur) : qui est en ligne et à quoi il joue, directement dans le Guide ; comparaison des trophées ; leurs nouveaux trophées en bandeau ; et les **messages**, remis tout de suite ou portés par d'autres joueurs jusqu'à 14 jours.
 
 <p align="center">
-  <img src="docs/images/star-ocean-trophies.jpg" alt="Star Ocean dans le profil : 0 trophée sur 41, désormais pris en charge" width="80%">
+  <img src="docs/images/friends-compare.jpg" alt="La comparaison des trophées avec un ami, jeu par jeu" width="80%">
 </p>
-
-La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), mise à jour toutes les heures.
+<p align="center"><sub><i>La comparaison des trophées avec un ami, jeu par jeu.</i></sub></p>
 
 ## Ce qu'il fait
 
@@ -126,12 +147,13 @@ La liste des runtimes vient de [crowbar-catalog](https://github.com/DiamondDogz/
   - mis à jour automatiquement ou à la demande, en canal stable ou bêta ;
   - fixés sur une version précise si vous préférez ;
   - vos sauvegardes, trophées et réglages suivent chaque mise à jour, et la version précédente reste disponible pour revenir en arrière.
-- **Trophées hors ligne** : lus dans le `trophy00.trp` de chaque jeu, avec un écran Trophées, la progression sur chaque jaquette et une page Profil. Rien n'est envoyé.
+- **Trophées** : lus dans le `trophy00.trp` de chaque jeu, avec un écran Trophées, la progression sur chaque jaquette, une page Profil et des bandeaux en direct. Rien n'est envoyé à aucun serveur.
 - **Réglages par jeu** : résolution, affichage, FSR, images par seconde et filtrage. Ce que vous changez dans le menu en jeu est conservé.
 - **Vérifications avant le lancement** : fichiers et version du jeu, Vulkan 1.3 et manette. Si quelque chose empêcherait le jeu de démarrer, Crowbar dit quoi faire.
 - **Sauvegardes** : une copie datée de vos sauvegardes, trophées et réglages avant chaque changement de runtime, avec export, import et restauration.
 - **23 langues**, celles de la PS4. Comme sur la console, une langue système sert à la fois à Crowbar et aux jeux qui la suivent.
-- **Mode console** : plein écran, Crowbar s'efface pendant la partie et revient ensuite. Un raccourci Steam est disponible.
+- **Menu Guide par-dessus le jeu** : pause, passage dans Crowbar, quitter le jeu, notifications et amis, sans quitter la partie.
+- **Mode console** : plein écran, Crowbar s'efface pendant la partie et revient ensuite. Un raccourci Steam et une activité Discord sont disponibles.
 - **Compte GitHub**, facultatif : un appui pour mettre une étoile aux runtimes que vous aimez. La connexion se fait par code, aucun mot de passe ne passe par Crowbar.
 
 ## Captures d'écran
