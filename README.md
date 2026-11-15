@@ -27,6 +27,12 @@ Version française plus bas.
 
 Every runtime records trophies. The list comes from [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog) and is refreshed every ten minutes, so new versions show up without restarting Crowbar. Enjoying a game? Star its repo: press Y on it in Crowbar, or follow the links above.
 
+## New in 0.2.11
+
+- **Banners inside the game**: trophies, your friends' trophies and messages appear in the game picture itself, in exclusive fullscreen too (Vulkan runtimes). Trophy screenshots take the game picture alone, on Windows and Linux.
+- **Friends** (Labs): a banner with their profile picture when a friend comes online.
+- **Smoother switching** between a game and Crowbar, and badges on each runtime for what it supports, with a ✓ once seen working on your PC.
+
 ## New in 0.2.9
 
 - **A real pause from the Guide button.** Sakura Wars, Gundam Code Fairy and Valkyria Revolution stop completely (picture, sound, timers) while the menu is open. When a game cannot stop right now, a short notice says so, as on a console.
@@ -124,6 +130,12 @@ Aucun jeu n'est inclus. Crowbar ne lance que vos propres dumps.
 | 13 Sentinels: Aegis Rim | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [13-sentinels-aegis-rim-pc](https://github.com/saulob/13-sentinels-aegis-rim-pc) | [saulob](https://github.com/saulob) |
 
 Chaque runtime enregistre les trophées. La liste vient de [crowbar-catalog](https://github.com/DiamondDogz/crowbar-catalog), relue toutes les dix minutes : les nouvelles versions apparaissent sans relancer Crowbar. Un jeu vous plaît ? Mettez une étoile à son dépôt : Y sur le jeu dans Crowbar, ou les liens ci-dessus.
+
+## Nouveau dans la 0.2.11
+
+- **Bandeaux dans le jeu** : les trophées, ceux de vos amis et les messages s'affichent dans l'image du jeu elle-même, en plein écran exclusif aussi (runtimes Vulkan). Les captures de trophées prennent l'image du jeu seule, sous Windows et Linux.
+- **Amis** (Labs) : un bandeau avec sa photo de profil quand un ami se connecte.
+- **Passage plus fluide** entre un jeu et Crowbar, et des badges sur chaque runtime pour ce qu'il sait faire, avec un ✓ une fois vus marcher sur votre PC.
 
 ## Nouveau dans la 0.2.9
 
